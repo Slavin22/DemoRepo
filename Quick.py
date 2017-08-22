@@ -1,2 +1,3 @@
 name = "Sean"
-print(name)
+lastName = "Slavin"
+print(name + ':' + lastName)
